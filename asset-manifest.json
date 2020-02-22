@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RLA-Classrooms/static/css/main.deef7539.chunk.css",
+    "main.css": "/RLA-Classrooms/static/css/main.39c1ee2e.chunk.css",
     "main.js": "/RLA-Classrooms/static/js/main.130b9ca4.chunk.js",
     "main.js.map": "/RLA-Classrooms/static/js/main.130b9ca4.chunk.js.map",
     "runtime-main.js": "/RLA-Classrooms/static/js/runtime-main.46b294f6.js",
@@ -8,15 +8,15 @@
     "static/js/2.c0dfb198.chunk.js": "/RLA-Classrooms/static/js/2.c0dfb198.chunk.js",
     "static/js/2.c0dfb198.chunk.js.map": "/RLA-Classrooms/static/js/2.c0dfb198.chunk.js.map",
     "index.html": "/RLA-Classrooms/index.html",
-    "precache-manifest.3dc0c27688ad1ed7f1a73abb5cfad4f1.js": "/RLA-Classrooms/precache-manifest.3dc0c27688ad1ed7f1a73abb5cfad4f1.js",
+    "precache-manifest.a0448e0669d36b046003dd8bbe38df07.js": "/RLA-Classrooms/precache-manifest.a0448e0669d36b046003dd8bbe38df07.js",
     "service-worker.js": "/RLA-Classrooms/service-worker.js",
-    "static/css/main.deef7539.chunk.css.map": "/RLA-Classrooms/static/css/main.deef7539.chunk.css.map",
+    "static/css/main.39c1ee2e.chunk.css.map": "/RLA-Classrooms/static/css/main.39c1ee2e.chunk.css.map",
     "static/js/2.c0dfb198.chunk.js.LICENSE.txt": "/RLA-Classrooms/static/js/2.c0dfb198.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.46b294f6.js",
     "static/js/2.c0dfb198.chunk.js",
-    "static/css/main.deef7539.chunk.css",
+    "static/css/main.39c1ee2e.chunk.css",
     "static/js/main.130b9ca4.chunk.js"
   ]
 }
