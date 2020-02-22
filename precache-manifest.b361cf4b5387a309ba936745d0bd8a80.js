@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d3adf3706a8dd42fa4d4e88fd2513f7",
+    "revision": "467f30f5bad2647cf3bc8228153cfd50",
     "url": "/RLA-Classrooms/index.html"
   },
   {
-    "revision": "6cc9b2b7bf01d8c46b80",
+    "revision": "67aac7ef76a67048e957",
     "url": "/RLA-Classrooms/static/css/main.bde40e2b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RLA-Classrooms/static/js/2.c0dfb198.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6cc9b2b7bf01d8c46b80",
-    "url": "/RLA-Classrooms/static/js/main.ba2f46e3.chunk.js"
+    "revision": "67aac7ef76a67048e957",
+    "url": "/RLA-Classrooms/static/js/main.ad0ea1f8.chunk.js"
   },
   {
     "revision": "7454e5281917d28355a3",
